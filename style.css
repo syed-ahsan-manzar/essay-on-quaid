@@ -1,0 +1,13 @@
+h1,p{
+    color: rgb(241, 169, 0);
+    font-family: MV Boli;
+}
+body{
+    background-image:url(https://i.stack.imgur.com/p9mUO.jpg);
+    text-align: center;
+}
+@media only screen and(max-width:500px){
+    h1,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+}
